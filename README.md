@@ -5,7 +5,7 @@
 
 ## 方法
 ### 1、yolov10 https://github.com/THU-MIG/yolov10
-### 2、resnet 等主干 https://github.com/hysts/pytorch_image_classification
+### 2、resnet 等主干 https://github.com/huggingface/pytorch-image-models
 
 ## 实验结果
 ### 1、yolo10和yolo10new分别是基线方法和自己改进的新模块，其各自效果如下：
